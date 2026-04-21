@@ -14,4 +14,4 @@ A React Native app built with [Expo Router](https://expo.github.io/router/) that
 ---
 
 ## 📂 Project Structure
-if suppose you are a really big dumb if you can't see the structure by yourself
+I suppose you are a really big dumb if you can't see the structure by yourself
