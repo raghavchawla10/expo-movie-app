@@ -14,15 +14,4 @@ A React Native app built with [Expo Router](https://expo.github.io/router/) that
 ---
 
 ## 📂 Project Structure
-app/
-_layout.js        # Tab navigation layout
-index.js          # Home tab
-searchPage.js     # Search tab
-movieDetail.js    # Movie detail page
-components/
-Search.js         # Reusable search bar component
-MovieCard.js      # Reusable movie card component
-Service/
-Service.js        # TMDB API service functions
-assets/
-images/           # App icons and images
+if suppose you are a really big dumb if you can't see the structure by yourself
